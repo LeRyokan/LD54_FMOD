@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e5f42df3-ddd2-4b8f-8a13-2d90a5f4fec2}">
+		<property name="assetPath">
+			<value>CM139_FX21.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.95600907029478455</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5553b94c-a3ad-48e6-b402-5e6f22f449e8}</destination>
+		</relationship>
+	</object>
+</objects>
