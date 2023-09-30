@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b6ef9d35-3510-4be3-acc7-792bc80db5f9}">
+		<property name="name">
+			<value>ExitLoopSmooth</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bb8b1675-d61d-493e-bcf2-65d838b093a1}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9ba92f78-bb63-4019-8c91-b2900de28d56}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9ba92f78-bb63-4019-8c91-b2900de28d56}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

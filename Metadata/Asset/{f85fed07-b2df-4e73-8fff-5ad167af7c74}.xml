@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{f85fed07-b2df-4e73-8fff-5ad167af7c74}">
+		<property name="assetPath">
+			<value>Exports (1)/Death zik strings Project/Samples/Processed/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5553b94c-a3ad-48e6-b402-5e6f22f449e8}</destination>
+		</relationship>
+	</object>
+</objects>

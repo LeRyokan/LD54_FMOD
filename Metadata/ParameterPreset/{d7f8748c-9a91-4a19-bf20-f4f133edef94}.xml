@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d7f8748c-9a91-4a19-bf20-f4f133edef94}">
+		<property name="name">
+			<value>DistanceVolume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bb8b1675-d61d-493e-bcf2-65d838b093a1}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{0375d195-6f05-46bd-a38a-18544f44f004}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{0375d195-6f05-46bd-a38a-18544f44f004}">
+		<property name="maximum">
+			<value>127</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

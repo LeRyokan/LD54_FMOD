@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{175a6adc-47fe-479c-82a5-acb2ec74e74c}">
+		<property name="assetPath">
+			<value>Exports (1)/Succes Cri.aif</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5553b94c-a3ad-48e6-b402-5e6f22f449e8}</destination>
+		</relationship>
+	</object>
+</objects>

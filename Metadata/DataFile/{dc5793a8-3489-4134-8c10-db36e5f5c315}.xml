@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{dc5793a8-3489-4134-8c10-db36e5f5c315}">
+		<property name="assetPath">
+			<value>Exports (1)/Music/Music V3/One shot obstacle/One Shot obstacle 6.aif.asd</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5553b94c-a3ad-48e6-b402-5e6f22f449e8}</destination>
+		</relationship>
+	</object>
+</objects>

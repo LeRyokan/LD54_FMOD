@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{0fb2fbb6-cdb1-4a40-b27e-900d4f18e8cc}">
+		<property name="assetPath">
+			<value>Exports (1)/Music/Sonar Music 1 - ennemi approaching.aif.asd</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5553b94c-a3ad-48e6-b402-5e6f22f449e8}</destination>
+		</relationship>
+	</object>
+</objects>

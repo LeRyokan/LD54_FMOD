@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{4506755b-a4a7-48e9-a066-5f51b8144177}">
+		<property name="name">
+			<value>Pan (Wall Sonar Bounce)</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bb8b1675-d61d-493e-bcf2-65d838b093a1}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{81108750-cf5e-4646-9d42-63d90d22c197}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{81108750-cf5e-4646-9d42-63d90d22c197}">
+		<property name="minimum">
+			<value>-64</value>
+		</property>
+		<property name="maximum">
+			<value>64</value>
+		</property>
+		<property name="initialValue">
+			<value>-64</value>
+		</property>
+	</object>
+</objects>

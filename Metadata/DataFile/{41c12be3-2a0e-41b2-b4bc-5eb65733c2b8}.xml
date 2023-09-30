@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{41c12be3-2a0e-41b2-b4bc-5eb65733c2b8}">
+		<property name="assetPath">
+			<value>Exports (1)/Music/Sonar Music 1 - ambient chill.aif.asd</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5553b94c-a3ad-48e6-b402-5e6f22f449e8}</destination>
+		</relationship>
+	</object>
+</objects>
