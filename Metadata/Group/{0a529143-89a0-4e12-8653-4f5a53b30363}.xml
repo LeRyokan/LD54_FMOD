@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="MixerGroup" id="{0a529143-89a0-4e12-8653-4f5a53b30363}">
-		<property name="note" />
 		<property name="name">
 			<value>Music</value>
 		</property>
@@ -24,7 +23,7 @@
 	<object class="MixerBusPanner" id="{0a85b5ef-b756-4345-b714-76a9b7f980cf}" />
 	<object class="MixerSend" id="{06661734-b015-4c42-9426-70c470f1316a}">
 		<property name="inputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="mixerReturn">
 			<destination>{2e3e7bf3-762b-4de4-81c7-53ca82010f6b}</destination>
