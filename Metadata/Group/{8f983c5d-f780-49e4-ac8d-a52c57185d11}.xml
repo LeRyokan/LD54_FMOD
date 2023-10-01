@@ -24,10 +24,13 @@
 	<object class="MixerBusPanner" id="{d2863969-3efb-4f68-b4eb-fc745587bb8c}" />
 	<object class="DelayEffect" id="{edab8391-e3fe-420a-a041-357c73288541}">
 		<property name="delay">
-			<value>86</value>
+			<value>88</value>
 		</property>
 		<property name="feedback">
 			<value>43.5</value>
+		</property>
+		<property name="level">
+			<value>-42</value>
 		</property>
 	</object>
 	<object class="MixerSend" id="{4d54a6f1-5722-4626-86a5-1455acf001e3}">
