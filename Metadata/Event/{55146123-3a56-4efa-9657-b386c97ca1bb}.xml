@@ -104,6 +104,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{d880b8dd-0ee2-4265-a973-2ba00b97d54c}">
+		<property name="volume">
+			<value>-13.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -119,7 +122,8 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{1fc70c33-92b3-4f29-816a-bd34ab9bbb9a}">
 		<relationship name="effects">
-			<destination>{968a7aa3-9e3c-4120-ae0f-fe1a3544562f}</destination>
+			<destination>{c452aa2e-0105-4ad2-b565-c6908f97dc68}</destination>
+			<destination>{b1660270-93af-45a5-afde-d757aed04114}</destination>
 			<destination>{562c2b9e-2846-426b-87a0-69a46b65ad51}</destination>
 		</relationship>
 	</object>
@@ -156,12 +160,20 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{58d0a703-9d0b-493a-a71a-e06b68fab11f}" />
-	<object class="ThreeEQEffect" id="{968a7aa3-9e3c-4120-ae0f-fe1a3544562f}">
-		<property name="highGain">
-			<value>-16.5</value>
+	<object class="MultibandEqEffect" id="{c452aa2e-0105-4ad2-b565-c6908f97dc68}">
+		<property name="filterTypeA">
+			<value>4</value>
 		</property>
-		<property name="highCrossover">
-			<value>5000</value>
+		<property name="frequencyA">
+			<value>649.722717</value>
+		</property>
+		<property name="qualityA">
+			<value>0.676091015</value>
+		</property>
+	</object>
+	<object class="SFXReverbEffect" id="{b1660270-93af-45a5-afde-d757aed04114}">
+		<property name="diffusion">
+			<value>50</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{562c2b9e-2846-426b-87a0-69a46b65ad51}" />
